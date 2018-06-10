@@ -25,7 +25,7 @@ public class BattleShip {
        while(true){
             System.out.println("Enter X co-ordinate for you Ship No:"+i);
             x=s.nextInt();   
-            System.out.println("Enter Y co-ordinate for you Ship No you idiot:"+i);
+            System.out.println("Enter Y co-ordinate for you Ship No you:"+i);
             y=s.nextInt();
             if(x<10&&y<10){
                 if(map[x][y]==" "){
