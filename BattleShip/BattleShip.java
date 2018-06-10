@@ -23,7 +23,7 @@ public class BattleShip {
        System.out.println("Deploy your Ships:");
        int i=1;
        while(true){
-            System.out.println("Enter X co-ordinate for you Ship No:"+i);
+            System.out.println("Enter X co-ordinate for you Ship No================================>"+i);
             x=s.nextInt();   
             System.out.println("Enter Y co-ordinate for you Ship No you:"+i);
             y=s.nextInt();
